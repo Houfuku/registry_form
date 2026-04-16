@@ -1,4 +1,4 @@
-<img width="750" height="1149" alt="image" src="https://github.com/user-attachments/assets/ed9f6b92-20b7-4793-9a6e-43a14c85f1ff" />
+#РАБОТА С ФОРМОЙ РЕГИСТРАЦИИ НА ОЦЕНКУ 55555555555555555555555555
 
 
 # Веселов Артём, ИС11-24-1 🧑‍💻
@@ -7,8 +7,7 @@
 
 Я — превысокомногорассмотрительствующий разработчик(почти) сайтов `HOUFUKU`. 😸
 
-<img width="750" height="1149" alt="b20363f8d0d0ec60c7ed6ac34d772cfe" src="https://github.com/user-attachments/assets/1d006dd2-01b2-4017-bacb-6b41b30f3403" />
-
+<img width="450" height="849" alt="b20363f8d0d0ec60c7ed6ac34d772cfe" src="https://github.com/user-attachments/assets/1d006dd2-01b2-4017-bacb-6b41b30f3403" />
 
 ## Кто я? 🤔
 
